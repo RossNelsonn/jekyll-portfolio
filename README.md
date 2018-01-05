@@ -1,2 +1,2 @@
 # portfolio jekyll
-[my icon website](https://rossnelsonn.github.io/jekyll-portfolio/index.html/)
+[portfolio jekyll](https://rossnelsonn.github.io/jekyll-portfolio/)
