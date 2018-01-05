@@ -1,0 +1,22 @@
+# Site settings
+title: Jekyll Portfolio
+email: 
+url: http://127.0.0.1:4000/
+description: Portfolio Site 
+baseurl:
+
+#Footer settings
+footer: Developed by Ross Nelson | copyright 2017
+
+#Social network usernames
+social: networks usernames
+-title: Instagram
+url: https://#
+-title: Github
+url: https://#
+-title: Twitter
+url: https:??#
+
+#Build settings
+mardown: Kramdown
+peralink: pretty
